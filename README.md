@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently working on fun personnal project where I can test some ML/DL techniques:
+* [Spotify Song Classification](https://github.com/sqrx-mckl/spotify_app)  
+I use Spotify audio features to cluster my songs and get a dynamic plot. Later on the goal would be to cluster multiple playlist together...
+* [Driver Behaviour Study/Analysis with DL](https://github.com/sqrx-mckl/driver_behaviour)  
+After have worked in the automotive sector for 3 years, I tested with public data how to cluster the driver different behaviour in a corner in an heuristic fashion.
+
 <!--
 **sqrx-mckl/sqrx-mckl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
